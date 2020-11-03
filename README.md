@@ -9,6 +9,9 @@ Two challenges were faced during this project:
 Apart from the pure data science goal of this project, being able to correctly predict the number of passengers for a given flight would help flight companies to efficiently allocate aircrafts to routes.
 
 # How to use ?
+We have two main python files:
+- **feature_extractor.py** contains a python class to prepare the features
+- **regressor.py** contains a python class to apply the machine learning model
 
 # Deliverables
-
+We delivered the csv file with the predictions, as well as a PDF report explaining our approach.
